@@ -1,6 +1,6 @@
 # US Cotar Dolar
 
-Eu, José, quero efetuar cotação do dólar, para monitorar sua variação.
+Eu, José, quero efetuar cotação do dólar para monitorar sua variação.
 
 ### Critérios de aceitação: 
 1. O dado deve ser buscado no Banco Central (BACEN);
